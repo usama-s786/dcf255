@@ -15,6 +15,7 @@
 - Demonstrate knowledge and use of widely-used applications on the internet to complete common tasks.
 - Create simple programs that communicate over a network.
 - Examine a security, deployment, and reliability problems to understand an existing system, or to implement a new system.
+
 Source: [Seneca College Website](https://www.senecacollege.ca/cgi-bin/subject?s1=DCF255)
 
 ------------------------
